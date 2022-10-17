@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://dev.to/adrianzzito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adrianzzito" height="30" width="40" /></a>
 <a href="https://twitter.com/zzitoadrian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zzitoadrian" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/adrianzzito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="adrianzzito" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/AdriánZzito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="adrianzzito" height="30" width="40" /></a>
 <a href="https://instagram.com/adrianzzitoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adrianzzitoo" height="30" width="40" /></a>
 </p>
 
