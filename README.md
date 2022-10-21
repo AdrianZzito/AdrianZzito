@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/zzitoadrian" target="blank"><img src="https://img.shields.io/twitter/follow/zzitoadrian?logo=twitter&style=for-the-badge" alt="zzitoadrian" /></a> </p>
 
-- 🌱 Ahora mismo, intento aprender **Java, Docker y Pandas e intento mejorar mi nivel de Python**
+- 🌱 Ahora mismo, intento aprender **Java, Docker y Pandas** e intento mejorar mi nivel de **Python**
 
 - 👨‍💻 Mis proyectos estan disponibles aqui: [https://github.com/AdrianZzito?tab=repositories](https://github.com/AdrianZzito?tab=repositories)
 
