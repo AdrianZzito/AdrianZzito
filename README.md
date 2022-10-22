@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianzzito&label=Profile%20views&color=0e75b6&style=flat" alt="adrianzzito" /> </p>
 
-<p align="left"> <a href="https://twitter.com/zzitoadrian" target="blank"><img src="https://img.shields.io/twitter/follow/zzitoadrian?logo=twitter&style=for-the-badge" alt="zzitoadrian" /></a> </p>
+<p align="left"> <a href="https://twitter.com/zzitoadrian" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="zzitoadrian" /></a> <a href="https://instagram.com/adrianzzitoo" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="adrianzzitoo" /></a> </a></p>
 
 - 🌱 Ahora mismo, intento aprender **Java, Docker y Pandas** e intento mejorar mi nivel de **Python**
 
