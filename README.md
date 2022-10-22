@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Adrian Castilla</h1>
-<h3 align="center">Desarrollo software (Mas bien lo intento) desde hace 5 años. Mi campo favorito es el desarrollo móvil, actualmente solo para iOS, dentro de poco también Android.</h3>
+<h3 align="center">Desarrollo software (Mas bien lo intento) desde hace 5 años. Mi campo favorito es el desarrollo móvil, concretamente, el desarrollo de aplicaciones iOS.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianzzito&label=Profile%20views&color=0e75b6&style=flat" alt="adrianzzito" /> </p>
 
