@@ -32,7 +32,7 @@
 <h3 align="left">Certifications:</h3>
 <p align="left"> 
 
-<a href="https://www.sololearn.com/certificates/CT-R699RAPC" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5 sololearn-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-cert-sl"/> </a> 
+<a href="https://www.sololearn.com/certificates/CT-R699RAPC" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5 by sololearn-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-cert-sl"/> </a> 
 
 </p>
 
