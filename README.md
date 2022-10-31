@@ -5,7 +5,7 @@
 
 - 💻 Como sistema operativo utilizo: <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" align="center"/> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" align="center"/> <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" align="center"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" align="center"/> 
 
-- 🌱 Ahora mismo, intento aprender <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" align="center"/> **Docker y Pandas** e intento mejorar mi nivel de <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" align="center"/>
+- 🌱 Ahora mismo, intento aprender <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" align="center"/> **Docker y Pandas**
 
 - 👨‍💻 Mis proyectos estan disponibles aqui: <a href="https://github.com/AdrianZzito?tab=repositories" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" align="center"/></a>
 
@@ -32,7 +32,7 @@
 <h3 align="left">Certifications:</h3>
 <p align="left"> 
 
-<a href="https://www.sololearn.com/certificates/CT-R699RAPC" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5 by sololearn-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-cert-sl"/> </a> 
+<a href="https://www.sololearn.com/certificates/CT-R699RAPC" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5 by sololearn-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-cert-sl"/> <a href="https://www.sololearn.com/certificates/CT-KW3JDCXK" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python Core by sololearn-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python-core-cert"/> </a></a> 
 
 </p>
 
