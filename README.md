@@ -32,7 +32,7 @@
 <h3 align="left">Certifications:</h3>
 <p align="left"> 
 
-<a href="https://www.sololearn.com/certificates/CT-R699RAPC" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5 by sololearn-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-cert-sl"/> <a href="https://www.sololearn.com/certificates/CT-KW3JDCXK" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python Core by sololearn-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python-core-cert"/> </a></a> 
+<a href="https://www.sololearn.com/certificates/CT-R699RAPC" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5 by sololearn-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-cert-sl"/> <a href="https://www.sololearn.com/certificates/CT-KW3JDCXK" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python Core by sololearn-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python-core-cert"/> </a> <a href="https://www.udemy.com/certificate/UC-67af8fa7-c190-462d-9e95-a97d1683ed27/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Desarrollo con Swift y iOS by udemy-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="iOS-cert"/> </a> </a> 
 
 </p>
 
