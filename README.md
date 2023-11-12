@@ -1,22 +1,18 @@
-<h1 align="center">Hola 👋, Soy Adrian Castilla</h1>
-<h3 align="center">Desarrollo software (Mas bien lo intento) desde hace 5 años. Mi campo favorito es el desarrollo móvil, concretamente, el desarrollo de aplicaciones iOS.</h3>
+<h1 align="center">Hi 👋, i'm Adrian Castilla</h1>
+<h3 align="center">I've been software developer for the last 6 years, mainly i develop iOS apps.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianzzito&label=Profile%20views&color=0e75b6&style=flat" alt="adrianzzito" /> </p>
 
-- 💻 Como sistema operativo utilizo: <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" align="center"/> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" align="center"/> <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" align="center"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" align="center"/> 
+- 💻 What OS i use: <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" align="center"/> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" align="center"/> <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" align="center"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" align="center"/> 
 
-- 🌱 Ahora mismo, intento aprender <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" align="center"/> **Docker y Pandas**
-
-- 👨‍💻 Mis proyectos estan disponibles aqui: <a href="https://github.com/AdrianZzito?tab=repositories" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" align="center"/></a>
-
-- ⚡ **Me dicen que se me da bien manejar ordenadores... yo lo pongo en duda**
+- 👨‍💻 All my projects available here: <a href="https://github.com/AdrianZzito?tab=repositories" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" align="center"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
 <a href="https://twitter.com/zzitoadrian" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="zzitoadrian" /></a> <a href="https://instagram.com/adrianzzitoo" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="adrianzzitoo" /></a> <a href="https://dev.to/adrianzzito" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="adrianzzito" /></a> <a href="https://stackoverflow.com/users/19169686/adriánzzito" target="blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="adriánzzito" /></a> 
 </a></p>
 
-<h3 align="left">Mi Ordenador:</h3>
+<h3 align="left">My computer:</h3>
 <p align="left"> 
 <a target="blank"><img src="https://img.shields.io/badge/Apple-IMac_2017_27'_5K-999999?style=for-the-badge&logo=apple&logoColor=white"/></a>
 <a target="blank"><img src="https://img.shields.io/badge/Intel-Core_i5_7th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/></a>
